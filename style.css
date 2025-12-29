@@ -3,3 +3,21 @@
     font-family: Arial, Helvetica, sans-serif;
     border: border-box;      /* it include border area in content area not extra area */
 }
+
+.navbar {
+    height: 60px;
+    background-color: #0f1111;
+    color: white;
+}
+
+.nav-logo {
+    height: 50px;
+    width: 100px;
+}
+
+.logo {
+    background-image: url(amazon\ 1..jpg);
+    background-size: cover;
+    height: 55px;
+    width: 152px;
+}

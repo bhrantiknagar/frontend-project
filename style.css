@@ -8,16 +8,44 @@
     height: 60px;
     background-color: #0f1111;
     color: white;
+    display: flex;
+    align-items: center;
 }
 
 .nav-logo {
     height: 50px;
-    width: 100px;
+    width: 153px;
 }
 
 .logo {
     background-image: url(amazon\ 1..jpg);
     background-size: cover;
-    height: 55px;
+    height: 47px;
     width: 152px;
 }
+
+.border {
+    border: 2px solid transparent;
+}
+
+.border:hover {
+    border: 2px solid white;
+}
+
+/* box2 */
+.add-first {
+    color: #cccccc;
+    font-size: 0.85rem;
+    margin-left: 19px;
+}
+
+.add-second {
+    font-size: 1rem;
+    margin-left: 3px;
+}
+
+.add-icon {
+    display:flex;
+    align-items: center;
+}
+

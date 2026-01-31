@@ -138,7 +138,7 @@ span {
 
 /* hero section */
 .hero-section {
-    background-image: url(hero\ image\ 1..jpg);
+    background-image: url(./img/hero\ image\ 1..jpg);
     background-size: cover;
     height: 350px;
     display: flex;
@@ -240,7 +240,8 @@ ul a{
 }
 
 .logo {
-    background-image: url(amazon\ 1..jpg);
+    /* background-image: url(amazon\ 1..jpg); */
+    background-image: url(./img/amazon\ 1..jpg);
     background-size: cover;
     height: 47px;
     width: 153px;

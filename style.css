@@ -208,6 +208,11 @@ footer {
     align-items: center;
     justify-content: center;
     font-size: 0.85rem;
+    cursor: pointer;
+}
+
+.foot-panel1:hover {
+    color:#c2c5ce;
 }
 
 .foot-panel2 {
